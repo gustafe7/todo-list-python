@@ -1,15 +1,17 @@
-# 📋 Lista de Tarefas em Python
+# 📋 Lista de Tarefas em Python (CLI)
 
-Projeto simples em Python para gerenciamento de tarefas via terminal.
+Projeto desenvolvido em Python para gerenciamento de tarefas via terminal, com persistência em arquivo.
 
 ## 🚀 Funcionalidades
 - Adicionar tarefas
 - Listar tarefas salvas
 - Armazenamento em arquivo `.txt`
+- Interface simples em linha de comando
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias Utilizadas
 - Python 3
+- Git e GitHub
 
-## ▶️ Como executar
+## ▶️ Como executar o projeto
 ```bash
 python main.py
